@@ -17,17 +17,9 @@
 
 ### 解釈:
 
+# データ概要
 
-[Client] → [Next.js App Router] → [API Routes] → [Prisma] → [PostgreSQL]
-                                        ↓
-                                  [External APIs]
-```
-
-詳細は [docs/architecture.md](docs/architecture.md) を参照してください。
-
-## 🚀　CV設計と理由
-
-## 📝 工夫点
+### レコード数
 
 🔗 **ライブデモ**: [https://project.vercel.app](https://project.vercel.app)
 
