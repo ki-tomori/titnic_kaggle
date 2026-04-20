@@ -7,17 +7,15 @@
 
 ![デモのスクリーンショットやGIF](docs/images/demo.gif)
 
-### コンペ名
-Titanic-Machine Learning from Disaster
+### コンペ名:Titanic-Machine Learning from Disaster
 
-### タスク
-Binary Classification(二値分類)
+### タスク:Binary Classification(二値分類)
 
-### 評価指標
+### 評価指標:
 
-### 最終順位
+### 最終順位:
 
-### 解釈
+### 解釈:
 
 
 [Client] → [Next.js App Router] → [API Routes] → [Prisma] → [PostgreSQL]
