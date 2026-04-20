@@ -1,6 +1,5 @@
 # 概要
 
-[![CI](https://github.com/yourname/project/actions/workflows/ci.yml/badge.svg)](https://github.com/yourname/project/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue.svg)](https://www.typescriptlang.org/)
 
@@ -8,17 +7,17 @@
 
 ![デモのスクリーンショットやGIF](docs/images/demo.gif)
 
-## コンペ名
+### コンペ名
 Titanic-Machine Learning from Disaster
 
-## タスク
+### タスク
 Binary Classification(二値分類)
 
-## 評価指標
+### 評価指標
 
-## 最終順位
+### 最終順位
 
-## 解釈
+### 解釈
 
 
 [Client] → [Next.js App Router] → [API Routes] → [Prisma] → [PostgreSQL]
